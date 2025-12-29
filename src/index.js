@@ -6,6 +6,8 @@ const mongoose = require("mongoose");
 // load models
 require("./models/User");
 require("./models/Goal");
+require("./models/Habit");
+require("./models/HabitLog");
 
 
 // routes
